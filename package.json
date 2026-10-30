@@ -1,0 +1,15 @@
+{
+  "name": "laundry-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp notification gateway for laundry app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.19",
+    "express": "^4.21.2",
+    "pino": "^9.6.0"
+  }
+}
+
